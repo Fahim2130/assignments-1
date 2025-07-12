@@ -162,6 +162,7 @@ body {
 .focus-img{
   border-radius: 48px;
   margin-top: 20px;
+  width: 100%;
 }
  
 /* Contact */
